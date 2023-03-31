@@ -12,14 +12,14 @@ export const TestimonialsData = [
     image: profile1,
     comment:
       ' Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-    name: 'John Alendon',
+    name: 'Sara Alendon',
   },
   {
     id: 2,
     image: profile2,
     comment:
       ' Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-    name: 'Natasha',
+    name: 'Natasha Portman',
   },
   {
     id: 3,
@@ -33,27 +33,27 @@ export const TestimonialsData = [
     image: profile4,
     comment:
       ' Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-    name: 'John Alendon',
+    name: 'Natali Alensaddon',
   },
   {
     id: 5,
     image: profile5,
     comment:
       ' Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-    name: 'Natasha',
+    name: 'Lili Anderson',
   },
   {
     id: 6,
     image: profile6,
     comment:
       ' Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-    name: 'Alex Hormonzi',
+    name: 'Alexis Ren',
   },
   {
     id: 7,
     image: profile7,
     comment:
       ' Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-    name: 'Ali Horsdfo',
+    name: 'Bobbi Brown',
   },
 ];
