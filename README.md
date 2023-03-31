@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d10053c6-0604-48a2-b891-f317f0bd24fa/deploy-status)](https://app.netlify.com/sites/digicosmetics/deploys)
 
 ![alt text](https://github.com/khakiiman/digiCosmetics/blob/main/src/assets/inrtoPic.png?raw=true)
-# Cosmetics Store
-Cosmetics Store is ecommerce new-design website for cosmetic products.
+# Cosmetic Store
+Cosmetic Store is ecommerce new-design website for cosmetic products.
 ## Description
 This website created by best new technology like:
 - React.js
@@ -53,7 +53,7 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## Result
-The final step is to see this awesome store for buy apple's products!
+The final step is to see this awesome store for buy cosmetic products!
 Check out link below:
 
 https://digicosmetics.netlify.app
