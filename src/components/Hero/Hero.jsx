@@ -83,7 +83,7 @@ const Hero = () => {
             transition={transition}
             src={HeroImg2}
             alt=''
-            className='lg:left-0.6 hidden lg:absolute lg:flex lg:w-[35rem]'
+            className='lg:left-0.6 hidden lg:absolute lg:flex lg:w-[32.5rem]'
           />
           <motion.img
             initial={{ bottom: '2rem' }}
