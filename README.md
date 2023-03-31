@@ -1,4 +1,6 @@
-![alt text](https://s29.picofile.com/file/8461665450/inrtoPic.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d10053c6-0604-48a2-b891-f317f0bd24fa/deploy-status)](https://app.netlify.com/sites/digicosmetics/deploys)
+
+![alt text](https://github.com/khakiiman/digiCosmetics/blob/main/src/assets/inrtoPic.png?raw=true)
 # Cosmetics Store
 Cosmetics Store is ecommerce new-design website for cosmetic products.
 ## Description
