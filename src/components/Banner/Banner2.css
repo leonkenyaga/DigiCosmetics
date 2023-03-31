@@ -1,0 +1,16 @@
+span.swiper-pagination-bullet-active {
+    opacity: 1;
+    background-color: white;
+}
+
+.swiper-pagination {
+    position: absolute;
+    top: 52%;
+    text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .swiper-pagination {
+        display: none;
+    }
+  }
